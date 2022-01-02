@@ -21,7 +21,9 @@ Live examples:
  * [Green](https://janemiceli.github.io/matrix_tim/)
  * [Blue](https://janemiceli.github.io/matrix)
  * [Purple](https://janemiceli.github.io/Happy_birthday_angie/)
-
+ * [Green Matrix 4](https://janemiceli.github.io/matrix4)
+ * [Rainbow Matrix](https://janemiceli.github.io/matrixrainbow)
+ * [Rainbow 4 Matrix](https://janemiceli.github.io/matrix4rainbow)
 - Change the messages/words that appear in the rain by using all CAPS and assign to array "messages"
 ```
 const messages = ["ALPHA", "BETA", "GAMMA"]
