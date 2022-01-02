@@ -1,7 +1,13 @@
 Matrix code rain
 ================
 
-**See live demo [here](https://janemiceli.github.io/matrix/)**
+
+<p align="center">
+<img src="https://github.com/janemiceli/Happy_birthday_connor/blob/gh-pages/media/Happy_birthday_connor.gif">
+</p>
+
+
+**See live demo [here](https://janemiceli.github.io/Happy_birthday_connor/)**
 
 *Matrix* font is from [here](http://www.dafont.com/matrix-code-nfi.font).
 
